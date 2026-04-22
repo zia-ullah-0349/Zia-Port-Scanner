@@ -1,6 +1,6 @@
-# ZIA Port Scanner v2.0 ⚔️🐍
+# ZIA Port Scanner ⚔️🐍
 
-> **Author:** Zia Ullah🇵🇰
+> **Author:** Zia Ullah 🇵🇰
 ---
 ## 🎯 Project Goal
 A lightweight, educational Python port scanner built with `socket` to understand network reconnaissance. Scans TCP ports 1–100 on a target to identify open doors. Built for learning, not for harming.
